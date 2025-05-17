@@ -9,7 +9,7 @@ export const incAction1=(value)=>async dispatch=>{
 
 }
 
-export const incActionn=(value)=>async dispatch=>{
+/*export const incActionn=(value)=>async dispatch=>{
 
   dispatch({
    type:'INCREMENTN',
@@ -17,7 +17,7 @@ export const incActionn=(value)=>async dispatch=>{
 
   })
 
-}
+}*/
 
 export const decAction1=()=>async dispatch=>{
 
