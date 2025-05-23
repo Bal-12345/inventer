@@ -1,6 +1,6 @@
 
 const initialState={
-  name:'mithuna',
+  name:'Mithuna',
   score:13
  }
 export default function reducer2(state=initialState, action){
